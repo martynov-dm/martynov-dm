@@ -1,12 +1,8 @@
 <div align="center">
 
-# Hello, I'm Dmitrii 👋
+# Dmitrii Martynov
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%F0%9F%94%A5+Data+Scientist+%F0%9F%94%A5)](https://git.io/typing-svg)
+## Data Scientist | ML Engineer
 
 </div>
 
@@ -54,6 +50,6 @@ My contacts:
 
 | Project name                                                                                         | Description                                                                                                 | Presented in the project                                                                            |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [House Price Prediction](https://github.com/martynov-dm/mfdp-api)                            | Price prediction app for Russian housing market [Demo](https://mfdp-frontend-martynov-dm.amvera.io/predict) | EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), AutoML, FastAPI, Docker, React.js |
+| [House Price Prediction](https://github.com/martynov-dm/mfdp-api)                                    | Price prediction app for Russian housing market [Demo](https://mfdp-frontend-martynov-dm.amvera.io/predict) | EDA, Data Preprocessing, Feature Engineering (Juputer Notebooks), AutoML, FastAPI, Docker, React.js |
 | [Image Generation](https://github.com/martynov-dm/ml_service)                                        | Generate image from a text prompt, async using Celery and RabbitMQ                                          | Hugging Face, FastAPI, React.js, Websockets, PostgreSQL                                             |
 | [Recommendation System for Social Media Posts](https://github.com/martynov-dm/recommendation-system) | Content-based recommendation system for social media posts using NLP                                        | Feature Engineering, Transformers/Roberta, Catboost, FastAPI                                        |
