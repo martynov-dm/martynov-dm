@@ -2,7 +2,7 @@
 
 # Dmitrii Martynov
 
-## Generative AI Engineer | LLM, RAG, Agentic Systems | NLP and Production-ready Solutions
+## AI Engineer (LLM, RAG, NLP)
 
 </div>
 
