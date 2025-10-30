@@ -8,8 +8,6 @@
 
 - I'm a Machine Learning Engineer and Master's student at AI Talent Hub ITMO, focusing on Machine Learning, Deep Learning, NLP/LLM, and Computer Vision.
 
-- Previously, I worked as a Senior Software Engineer. I've now transitioned into Data Science.
-
 - I apply my programming expertise to data analysis and ML model development projects.
 
 - I'm continuously expanding my knowledge in Data Science and Machine Learning, and I'm open to new opportunities in these fields.
